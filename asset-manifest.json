@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reactPlatzi/static/css/main.98797cd0.css",
-    "main.js": "/reactPlatzi/static/js/main.bf8b8f03.js",
-    "index.html": "/reactPlatzi/index.html",
-    "main.98797cd0.css.map": "/reactPlatzi/static/css/main.98797cd0.css.map",
-    "main.bf8b8f03.js.map": "/reactPlatzi/static/js/main.bf8b8f03.js.map"
+    "main.css": "/curso-react-intro/static/css/main.32e0b475.css",
+    "main.js": "/curso-react-intro/static/js/main.6c597a64.js",
+    "index.html": "/curso-react-intro/index.html",
+    "main.32e0b475.css.map": "/curso-react-intro/static/css/main.32e0b475.css.map",
+    "main.6c597a64.js.map": "/curso-react-intro/static/js/main.6c597a64.js.map"
   },
   "entrypoints": [
-    "static/css/main.98797cd0.css",
-    "static/js/main.bf8b8f03.js"
+    "static/css/main.32e0b475.css",
+    "static/js/main.6c597a64.js"
   ]
 }
